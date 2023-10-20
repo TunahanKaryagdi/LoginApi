@@ -1,0 +1,17 @@
+C:\Users\Tunahan\source\repos\LoginService\Business\bin\Debug\net7.0\LoginApi.Business.deps.json
+C:\Users\Tunahan\source\repos\LoginService\Business\bin\Debug\net7.0\LoginApi.Business.dll
+C:\Users\Tunahan\source\repos\LoginService\Business\bin\Debug\net7.0\LoginApi.Business.pdb
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\LoginApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\LoginApi.Business.AssemblyInfoInputs.cache
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\LoginApi.Business.AssemblyInfo.cs
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\LoginApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\LoginApi.Business.dll
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\refint\LoginApi.Business.dll
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\LoginApi.Business.pdb
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\ref\LoginApi.Business.dll
+C:\Users\Tunahan\source\repos\LoginService\Business\bin\Debug\net7.0\LoginApi.Core.dll
+C:\Users\Tunahan\source\repos\LoginService\Business\bin\Debug\net7.0\LoginApi.DataAccess.dll
+C:\Users\Tunahan\source\repos\LoginService\Business\bin\Debug\net7.0\LoginApi.Core.pdb
+C:\Users\Tunahan\source\repos\LoginService\Business\bin\Debug\net7.0\LoginApi.DataAccess.pdb
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\LoginApi.Business.csproj.AssemblyReference.cache
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\LoginApi.Business.csproj.CopyComplete

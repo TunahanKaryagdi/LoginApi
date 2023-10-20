@@ -1,0 +1,17 @@
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\LoginApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\LoginApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\LoginApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\LoginApi.DataAccess.AssemblyInfo.cs
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\LoginApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\bin\Debug\net7.0\LoginApi.DataAccess.deps.json
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\bin\Debug\net7.0\LoginApi.DataAccess.runtimeconfig.json
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\bin\Debug\net7.0\LoginApi.DataAccess.dll
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\bin\Debug\net7.0\LoginApi.DataAccess.pdb
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\bin\Debug\net7.0\LoginApi.Core.dll
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\bin\Debug\net7.0\LoginApi.Core.pdb
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\LoginApi.DataAccess.csproj.CopyComplete
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\LoginApi.DataAccess.dll
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\refint\LoginApi.DataAccess.dll
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\LoginApi.DataAccess.pdb
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\LoginApi.DataAccess.genruntimeconfig.cache
+C:\Users\Tunahan\source\repos\LoginService\DataAccess\obj\Debug\net7.0\ref\LoginApi.DataAccess.dll

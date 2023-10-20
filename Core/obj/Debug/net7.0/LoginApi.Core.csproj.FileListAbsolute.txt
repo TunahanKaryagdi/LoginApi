@@ -1,0 +1,12 @@
+C:\Users\Tunahan\source\repos\LoginService\Core\bin\Debug\net7.0\LoginApi.Core.deps.json
+C:\Users\Tunahan\source\repos\LoginService\Core\bin\Debug\net7.0\LoginApi.Core.dll
+C:\Users\Tunahan\source\repos\LoginService\Core\bin\Debug\net7.0\LoginApi.Core.pdb
+C:\Users\Tunahan\source\repos\LoginService\Core\obj\Debug\net7.0\LoginApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunahan\source\repos\LoginService\Core\obj\Debug\net7.0\LoginApi.Core.AssemblyInfoInputs.cache
+C:\Users\Tunahan\source\repos\LoginService\Core\obj\Debug\net7.0\LoginApi.Core.AssemblyInfo.cs
+C:\Users\Tunahan\source\repos\LoginService\Core\obj\Debug\net7.0\LoginApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\LoginService\Core\obj\Debug\net7.0\LoginApi.Core.dll
+C:\Users\Tunahan\source\repos\LoginService\Core\obj\Debug\net7.0\refint\LoginApi.Core.dll
+C:\Users\Tunahan\source\repos\LoginService\Core\obj\Debug\net7.0\LoginApi.Core.pdb
+C:\Users\Tunahan\source\repos\LoginService\Core\obj\Debug\net7.0\ref\LoginApi.Core.dll
+C:\Users\Tunahan\source\repos\LoginService\Core\obj\Debug\net7.0\LoginApi.Core.csproj.AssemblyReference.cache

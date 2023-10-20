@@ -1,0 +1,11 @@
+C:\Users\Tunahan\source\repos\LoginService\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\Tunahan\source\repos\LoginService\Business\bin\Debug\net7.0\Business.dll
+C:\Users\Tunahan\source\repos\LoginService\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\Business.dll
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\Tunahan\source\repos\LoginService\Business\obj\Debug\net7.0\ref\Business.dll
